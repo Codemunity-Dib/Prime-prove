@@ -1,0 +1,14 @@
+section#about-me {
+	background-color: green;
+}
+
+
+section#portfolio {
+	background-color: yellow;
+}
+
+section#pippo {
+	background-color: purple;
+	height: 50px;
+	width: 50px;
+}
